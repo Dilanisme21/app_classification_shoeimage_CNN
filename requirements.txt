@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+flask
+tensorflow
+pyyaml
+h5py
+Pillow
+opencv-python
