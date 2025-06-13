@@ -1,3 +1,5 @@
+# Baca Sebelum Membaca
+
 Aplikasi ini kelanjutan dari skripsi saya.
 Journal : https://www.researchgate.net/publication/382580037_Implementasi_Algoritma_Convolutional_Neural_Network_untuk_Klasifikasi_Citra_Jenis_Sepatu_Lari_berdasarkan_Permukaan_Lintasan
 
